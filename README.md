@@ -29,7 +29,7 @@ Démocratiser l'automation marketing pour permettre aux **PME, agences, commerci
 
 ### [Prospecto Desktop](https://github.com/prospecto-official/prospecto-releases)
 
-Suite complète d'automation marketing pour Windows 10/11
+Suite complète d'automation marketing
 
 **Fonctionnalités principales :**
 - 🗺️ **Google Maps Scraper** - 5 000+ leads/heure
