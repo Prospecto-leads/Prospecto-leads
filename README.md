@@ -73,14 +73,6 @@ Rejoignez notre programme de partenariat : [contact@prospecto-leads.fr](mailto:c
 🌐 **Site web** : [prospecto-leads.fr](https://prospecto-leads.fr)  
 💬 **Support** : Lun-Ven 9h-18h (CET)
 
----
-
-### 🔗 Liens Utiles
-
-[![Site Web](https://img.shields.io/badge/Site-prospecto--leads.fr-667eea?style=flat-square)](https://prospecto-leads.fr)
-[![Télécharger](https://img.shields.io/badge/Télécharger-Dernière%20version-blue?style=flat-square&logo=github)](https://github.com/prospecto-official/prospecto-releases/releases)
-[![Email](https://img.shields.io/badge/Email-contact@prospecto--leads.fr-red?style=flat-square&logo=gmail)](mailto:contact@prospecto-leads.fr)
-
 </div>
 
 ---
