@@ -25,19 +25,6 @@ Démocratiser l'automation marketing pour permettre aux **PME, agences, commerci
 
 ---
 
-## 🛠️ Technologies
-
-Notre logiciel est développé avec les technologies les plus performantes :
-
-- **Frontend** : Electron, React, TypeScript
-- **Backend** : Node.js, Express, Python
-- **Automation** : Selenium, Puppeteer, Playwright
-- **Base de données** : SQLite, PostgreSQL
-- **API** : REST, WebSockets
-- **Scraping** : Axios, Cheerio, Beautiful Soup
-
----
-
 ## 📦 Nos Produits
 
 ### [Prospecto Desktop](https://github.com/prospecto-official/prospecto-releases)
@@ -61,7 +48,7 @@ Suite complète d'automation marketing pour Windows 10/11
 - **Support technique** inclus avec chaque licence
 - **Tutoriels vidéo** et documentation complète
 - **Webinaires mensuels** sur l'automation marketing
-- **Community support** via notre forum
+- **Community support** via Whatsapp
 
 ### 🤝 Partenariats
 
@@ -73,16 +60,6 @@ Rejoignez notre programme de partenariat : [contact@prospecto-leads.fr](mailto:c
 - 🎁 Licences gratuites pour vos tests
 - 📢 Support marketing et commercial
 - 🏆 Programme d'affiliation dédié
-
----
-
-## 📚 Ressources
-
-- 📖 [Documentation complète](https://prospecto-leads.fr/docs)
-- 🎥 [Tutoriels vidéo](https://prospecto-leads.fr/tutoriels)
-- 💡 [Blog & Études de cas](https://prospecto-leads.fr/blog)
-- 🤝 [Communauté d'entraide](https://prospecto-leads.fr/communaute)
-- ❓ [FAQ](https://prospecto-leads.fr/faq)
 
 ---
 
@@ -102,7 +79,6 @@ Rejoignez notre programme de partenariat : [contact@prospecto-leads.fr](mailto:c
 
 [![Site Web](https://img.shields.io/badge/Site-prospecto--leads.fr-667eea?style=flat-square)](https://prospecto-leads.fr)
 [![Télécharger](https://img.shields.io/badge/Télécharger-Dernière%20version-blue?style=flat-square&logo=github)](https://github.com/prospecto-official/prospecto-releases/releases)
-[![Documentation](https://img.shields.io/badge/Docs-Documentation-green?style=flat-square&logo=read-the-docs)](https://prospecto-leads.fr/docs)
 [![Email](https://img.shields.io/badge/Email-contact@prospecto--leads.fr-red?style=flat-square&logo=gmail)](mailto:contact@prospecto-leads.fr)
 
 </div>
@@ -119,8 +95,6 @@ La **sécurité de vos données** est notre priorité absolue :
 - ✅ Aucune revente de données
 - ✅ Audits de sécurité réguliers
 
-[📄 Politique de confidentialité](https://prospecto-leads.fr/confidentialite)
-
 ---
 
 <div align="center">
@@ -136,7 +110,7 @@ La **sécurité de vos données** est notre priorité absolue :
 **Prospecto** - L'Automation Marketing à la Portée de Tous  
 *Générez plus de leads, gagnez plus de temps, développez votre business.*
 
-© 2025 Prospecto. Tous droits réservés.
+© 2026 Prospecto. Tous droits réservés.
 
 </div>
 
